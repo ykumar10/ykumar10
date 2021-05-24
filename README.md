@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ykumar10
+- 👋 Hi, I’m Yogi
 - 👀 I’m interested in making websites and learning new languages
 - 🌱 I’m currently studying IT in Australia
 - 💞️ I’m looking to collaborate on ...
